@@ -15,4 +15,3 @@ while (true) {
 
     arr.push(num);
 }
-
